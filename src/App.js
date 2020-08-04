@@ -7,7 +7,7 @@ function App() {
         <a href='/'>React shopping cart</a>
       </header>
       <main>
-        Product list
+        Product listssssss
       </main>
       <footer>
         All right is reserved
